@@ -48,7 +48,8 @@ group :development do
   gem 'better_errors', '~> 2.7', '>= 2.7.1'
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'guard', '~> 2.16', '>= 2.16.2'
-  gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
+  gem 'guard-livereload', require: false
+  gem 'guard-bundler'
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '>= 3.0.5', '< 3.2'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
