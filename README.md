@@ -16,6 +16,9 @@ In this project, I tried to clone the basic functionality of twitter.com. You ca
 - Bulma for layout
 - Devise for authentication
 
+## Live Demo
+[Live Demo Link](https://dry-spire-67460.herokuapp.com/)
+
 ## Getting Started
 
 To get a local copy up and running follow these steps:
