@@ -2,8 +2,13 @@
 
 # Basic Twitter Clone
 
-> In this project, I tried to clone the basic functionality of twitter.com. You can sign up, sign in and post a tweet.
+In this project, I tried to clone the basic functionality of twitter.com. You can sign up, sign in and post a tweet.
 
+>Homepage without logging in
+![screenshot](screenshot_1.png)
+
+>User's profile page after loggin in
+![screenshot](screenshot_2.png)
 
 ## Built With
 
@@ -32,6 +37,11 @@ rails s
 ```
 
 - Open a web page and go to [port 3000 on your local machine.](http://localhost:3000)
+
+## Potential future updates
+- App can be easily extended to add the functionality to follow a user
+- Upload profile cover and pic
+- Notifications on recieving follow request 
 
 ## Author
 
