@@ -45,7 +45,7 @@ group :development, :test do
 end
 
 group :development do
-  gem 'better_errors', '~> 2.7', '>= 2.7.1'
+  gem 'better_errors', '~> 2.8'
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'guard', '~> 2.16', '>= 2.16.2'
   gem 'guard-livereload', require: false
